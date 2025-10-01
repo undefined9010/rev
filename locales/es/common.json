@@ -1,0 +1,133 @@
+{
+  "article_meta": {
+    "author": "Escrito por <person-link>{author}</person-link>",
+    "reading_time": "{readingTime} min de lectura",
+    "translator": "Traducido por <person-link>{translator}</person-link>"
+  },
+  "buttons": {
+    "authenticate": "Autenticar",
+    "authenticating": "Autenticando",
+    "back_to_exploits": "Volver a Hacks",
+    "cancel": "Cancelar",
+    "cancel_signatures": "Cancelar Firmas Potenciales",
+    "cancelling": "Cancelando",
+    "check": "Comprobar",
+    "check_connected_address": "Comprobar Dirección Conectada",
+    "clear_filters": "Quitar Filtros",
+    "close": "Cerrar",
+    "connect": "Conectar Cartera",
+    "connecting": "Conectando",
+    "disconnect": "Desconectar",
+    "disconnecting": "Desconectando",
+    "donate": "Donar",
+    "donating": "Donando",
+    "download": "Descargar",
+    "get_started": "Empezar",
+    "increase": "Aumentar",
+    "my_allowances": "Mis Autorizaciones",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "report_exploit": "Informar de un Hack",
+    "revoke": "Revocar",
+    "revoke_selected": "Revocar lo seleccionado",
+    "revoking": "Revocando",
+    "send": "Enviar",
+    "sending": "Enviando",
+    "switch_chain": "Cambiar de Red",
+    "switching": "Cambiando",
+    "translate": "Ayúdanos a traducir esta página",
+    "understand": "Entiendo",
+    "update": "Actualizar",
+    "updating": "Actualizando"
+  },
+  "chain_select": {
+    "mainnets": "Redes Principales",
+    "testnets": "Redes de Prueba"
+  },
+  "color_themes": {
+    "dark": "Oscuro",
+    "light": "Claro",
+    "system": "Sistema"
+  },
+  "connect_wallet": {
+    "title": "Conecta Tu Cartera"
+  },
+  "donate": {
+    "donate_any_token": "O envíe cualquier token a nuestra dirección de donaciones en <donations-link>donations address</donations-link>",
+    "title": "Donar a Revoke.cash"
+  },
+  "errors": {
+    "404": {
+      "go_home": "Volver a la página principal",
+      "subtitle": "No se pudo encontrar la página que buscas",
+      "suggested_pages": {
+        "extension": {
+          "description": "Descarga la extensión de navegador Revoke.cash.",
+          "title": "Extensión"
+        },
+        "faq": {
+          "description": "Respuestas a todas tus preguntas.",
+          "title": "FAQ"
+        },
+        "title": "¿Estás buscando uno de estos?",
+        "your_allowances": {
+          "description": "Revisa tus propias autorizaciones.",
+          "title": "Tus Autorizaciones"
+        }
+      },
+      "title": "Esta página no existe."
+    },
+    "messages": {
+      "chain_could_not_connect": "No se ha podido conectar a {chainName}, por favor inténtalo de nuevo más tarde."
+    }
+  },
+  "footer": {
+    "about": "Sobre nosotros",
+    "acknowledgements": "Agradecimientos",
+    "blog": "Blog",
+    "brand_assets": "Activos de Marca",
+    "community": "Comunidad",
+    "company": "Empresa",
+    "domain_scanner": "Escáner de Dominios",
+    "donations": "Donaciones",
+    "exploit_checker": "Comprobador de Exploits",
+    "extension": "Extensión del Navegador",
+    "faq": "FAQ",
+    "knowledgebase": "Base de Conocimiento",
+    "learn": "Aprender",
+    "privacy": "Política de privacidad",
+    "product": "Producto",
+    "terms": "Términos",
+    "token_approval_checker": "Comprobador de Autorización de Tokens",
+    "what_are_token_approvals": "¿Qué son las Autorizaciones de Tokens?",
+    "what_to_do_when_scammed": "¿Qué hacer cuando es estafado?"
+  },
+  "meta": {
+    "description": "Recupera el control de tu cartera y mantente a salvo revocando las autorizaciones y permisos en {chainName} y en 100 redes más.",
+    "title": "Revoca las Aprobaciones de Tus Tokens en Más de 100 Redes"
+  },
+  "misc": {
+    "powered_by": "Desarrollado por <powered-by-link>{name}</powered-by-link>"
+  },
+  "nav": {
+    "about": "Sobre nosotros",
+    "blog": "Blog",
+    "exploits": "Hacks",
+    "extension": "Extensión",
+    "faq": "FAQ",
+    "learn": "Aprender",
+    "merchandise": "Mercancía",
+    "more": "Más",
+    "search": "Buscar Cuentas por Dirección o Dominio"
+  },
+  "toasts": {
+    "clipboard_failed": "❌ No se pudo copiar al portapapeles",
+    "clipboard_success": "✅ Copiado al portapapeles",
+    "donation_sent": "💪 ¡Gracias por la donación!",
+    "revoke_failed": "❌ No se pudo revocar la autorización: {message}",
+    "revoke_failed_revert": "❌ Este token ha desactivado la revocación de aprobaciones. Recomendamos comunicarse con los creadores de este token para resolver el problema.",
+    "transaction_failed": "❌ Transacción fallida: {message}",
+    "transaction_submitted": "✅ ¡Transacción enviada!",
+    "update_failed": "❌ Este token no admite la actualización de aprobaciones, por favor revócala en su lugar."
+  }
+}

@@ -114,7 +114,6 @@
     "typescript": "^5.7.3",
     "walkdir": "^0.4.1"
   },
-  "packageManager": "yarn@4.6.0",
   "lint-staged": {
     "*": "biome check --write --no-errors-on-unmatched"
   },

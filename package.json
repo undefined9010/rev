@@ -1,5 +1,5 @@
 {
-  "name": "revoke.cash",
+  "name": "revo",
   "description": "Take back control of your wallet and stay safe by revoking token approvals you granted on Ethereum and over 100 other networks.",
   "version": "0.1.0",
   "scripts": {
@@ -70,7 +70,7 @@
     "remark-directive": "^3.0.1",
     "remark-directive-rehype": "^0.4.2",
     "remark-gfm": "^4.0.1",
-    "sharp": "^0.33.5",
+    "sharp": "^0.34.4",
     "tailwind-merge": "^3.0.1",
     "timeago-react": "^3.0.6",
     "timeago.js": "^4.0.2",
@@ -142,9 +142,7 @@
     "rate-limiter-flexible@^5.0.0": "patch:rate-limiter-flexible@npm%3A5.0.0#./.yarn/patches/rate-limiter-flexible-npm-5.0.0-9e3dae9215.patch",
     "@tanstack/query-core": "^5.89.0"
   },
-
   "engines": {
     "node": "20.x"
   }
-
 }
